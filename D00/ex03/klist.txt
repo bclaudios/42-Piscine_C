@@ -1,0 +1,8 @@
+Credentials cache: API:89C7C117-59C4-41EB-8F64-9250945A6F86
+        Principal: bclaudio@42.FR
+
+Issued                Expires               Principal
+Aug 27 18:31:44 2018  Sep  3 18:31:44 2018  krbtgt/42.FR@42.FR
+Aug 27 18:31:46 2018  Sep  3 18:31:44 2018  ldap/ldap-proxy.42.fr@42.FR
+Aug 27 18:31:46 2018  Sep  3 18:31:44 2018  HTTP/student-storage-1.42.fr@42.FR
+Aug 27 18:55:55 2018  Sep  3 18:31:44 2018  host/vgs-fn1.42.fr@42.FR
