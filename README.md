@@ -1,6 +1,6 @@
 # 42 - Pool C (Selection pool)
 All of my work (excepts exams) during the selection pool at 42 Paris. (September 2018 - Admited ✅)
-## Language
+## Languages
 - Shell
 - C
 ## Grades
